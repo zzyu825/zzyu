@@ -9,4 +9,7 @@
 // git commit -m 'project init' 作为一个版本提交到本地仓库
 // -m参数是输入提交信息的 -am参数就是可以把还没有执行add命令的修改一起提交
 // git add . 所有文件全部放入暂存区
-// git status 
+// git status 查看状态
+// git checkout -- index.html 撤销(文件中修改的内容)操作
+// git log 查看日志记录
+// git log --graph 图形化展示
