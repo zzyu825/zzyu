@@ -16,4 +16,4 @@
 // git branch zzy 创建自己的分支
 // git branch 查看分支
 // git checkout zzy 切换分支
-// git checkout -b zzy1 创建并切换分支
+// git checkout -b zzy1 创建并切换分支 git checkout -b zzy1
